@@ -16,14 +16,14 @@ To use this application, follow these steps:
 git clone https://github.com/your_username/your_repository.git
 
 ## Configure PostgreSQL
-### - Ensure PostgreSQL is installed and running.
-### - Create a database named 'databaseDemo'.
-### - Set up the 'Laptop' table
+ - Ensure PostgreSQL is installed and running.
+ - Create a database named 'databaseDemo'.
+ - Set up the 'Laptop' table
 ## Update Database Connection
-### - Modify the database connection settings in 'application.properties':
+ - Modify the database connection settings in 'application.properties':
 
 ## Run the Application
-### - Compile and run the Spring Boot application:
+ - Compile and run the Spring Boot application:
 
 
 ## 📊 API Endpoints
