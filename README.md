@@ -13,8 +13,7 @@ This Spring Boot application implements CRUD (Create, Read, Update, Delete) oper
 To use this application, follow these steps:
 
 ## Clone the repository
-git clone https://github.com/your_username/your_repository.git
-
+ https://github.com/manahiljawed-mj/CRUD_Using_SpringBoot.git
 ## Configure PostgreSQL
  - Ensure PostgreSQL is installed and running.
  - Create a database named 'databaseDemo'.
