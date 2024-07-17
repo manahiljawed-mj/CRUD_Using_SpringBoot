@@ -1,8 +1,6 @@
-#!/bin/bash
 
-echo "# 🌟 Spring Boot CRUD Operations with RESTful API"
+# 🌟 Spring Boot CRUD Operations with RESTful API
 
-cat <<EOF
 This Spring Boot application implements CRUD (Create, Read, Update, Delete) operations for managing laptops via a RESTful API.
 
 ## 🚀 Technologies Used
@@ -76,3 +74,5 @@ Contributions are welcome! Here are a few ways you can contribute:
 
 Feel free to fork this repository and customize it according to your needs!
 EOF
+
+echo "README.md file generated successfully!"
